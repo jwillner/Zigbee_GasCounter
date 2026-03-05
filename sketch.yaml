@@ -1,0 +1,7 @@
+default_fqbn: esp32:esp32:waveshare_esp32_c6_zero
+
+profiles:
+  default:
+    fqbn: esp32:esp32:waveshare_esp32_c6_zero
+    board_options:
+      CDCOnBoot: default
